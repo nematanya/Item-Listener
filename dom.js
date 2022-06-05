@@ -8,8 +8,7 @@
 // newp.className ='tanya';
 // var pt=document.createTextNode('tanya');
 // newp.appendChild(pt);
-// console.log(newp);
-// var bef=document.querySelector('#main');
+
 // var aft=document.querySelector('#test');
 
 // bef.insertBefore(newp,aft);
